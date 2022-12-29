@@ -60,12 +60,13 @@
 * Volume Trading Strategy
 
 ### ML MODELS
-* Transformer ML (or LTSM in the beginning)
+* Long short-term memory (LSTM)
 	* Using PyTorch/Tensorflow (prefer PyTorch rn)
 	* Training on external GPUs
 	* Using Normalization
 	* Trying Regularization
 	* K-Fold technique
+	* Switch to Transformers for easier GPU/TPU acceleration
 * TimeSeries Algorithms
 	* ARIMA
 	* SARIMAX
