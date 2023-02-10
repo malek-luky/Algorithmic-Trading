@@ -1,5 +1,5 @@
 # ALGORITHMIC TRADING
-* Currently contains Time Series Prediction of S&P500 Volume for QMiners. In future this repository will be more focused on real Algorithmic Trading bots using Interactive Brokers API. Since the task was in predicting the volume, not the stock/forex price, some of the methods could not have been used yet.
+* Currently contains Time Series Prediction of trading Volume. In future this repository will be more focused on real Algorithmic Trading bots using Interactive Brokers API. Since the task was in predicting the volume, not the stock/forex price, some of the methods could not have been used yet.
 
 ## MOTIVATION
 * Algorithmic Trading perfectly merges all my passions: Programming, Machine Learning, Economics and Finance.
